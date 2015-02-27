@@ -1,3 +1,3 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
-and this line is added in planet folder.
+We removed the conflict on this line
